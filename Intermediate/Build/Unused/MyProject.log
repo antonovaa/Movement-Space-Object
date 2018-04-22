@@ -1,0 +1,14 @@
+﻿  Performing full C++ include scan (building a new target)
+  Performing 8 actions (4 in parallel)
+  MyC.gen.cpp
+  MyC.cpp
+  MyProjectGameModeBase.cpp
+  MyProject.cpp
+  MyProject.init.gen.cpp
+  MyProjectGameModeBase.gen.cpp
+  [7/8] Link UE4Editor-MyProject.dll
+  [8/8] Link UE4Editor-MyProject.lib
+     ╤ючфрхЄё  сшсышюЄхър E:\Games\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.lib ш юс·хъЄ E:\Games\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.exp
+     ╤ючфрхЄё  сшсышюЄхър E:\Games\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.suppressed.lib ш юс·хъЄ E:\Games\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.suppressed.exp
+  Deploying MyProjectEditor Win64 Development...
+  Total build time: 159,33 seconds (Local executor: 143,26 seconds)
